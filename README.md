@@ -206,6 +206,13 @@ MIT — see [LICENSE](LICENSE).
 - Alen Đirlić - design , idea & project creator
 - SMART SPOT — design & project lead
 
+
+[![Donate PayPal](https://img.shields.io/badge/donate-paypal-00457C?logo=paypal&logoColor=white)](https://paypal.me/smartspot)
+
+## Support this project
+If you find PIXIDRIVER helpful and want to support development:
+[![Donate PayPal](https://img.shields.io/badge/donate-paypal-00457C?logo=paypal&logoColor=white)](https://paypal.me/smartspot)
+
 <p align="center">
   Powered by <a href="https://github.com/smartspot-led/PIXIDRIVER-V1.0"><b>SMART SPOT</b></a>
 </p>
