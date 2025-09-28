@@ -189,7 +189,11 @@ platformio.ini
 
 ## 🤝 Contributing
 
-PRs welcome! Keep hot paths non‑blocking and include notes for any timing‑sensitive changes.
+PRs welcome! 
+
+If you find PIXIDRIVER helpful and want to support development:
+
+[![Donate PayPal](https://img.shields.io/badge/donate-paypal-00457C?logo=paypal&logoColor=white)](https://paypal.me/smartspot)
 
 ---
 
@@ -206,7 +210,7 @@ MIT — see [LICENSE](LICENSE).
 - Alen Đirlić - design , idea & project creator
 - SMART SPOT — design & project lead
 
- If you find PIXIDRIVER helpful and want to support development: [![Donate PayPal](https://img.shields.io/badge/donate-paypal-00457C?logo=paypal&logoColor=white)](https://paypal.me/smartspot)
+ 
 
 
 
