@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#-license)
 
 <p align="center">
-  <img src="docs/hero.jpg" alt="PIXIDRIVER hero shot" width="820"/>
+  <img src="docs/hero.png" alt="PIXIDRIVER hero shot" width="820"/>
 </p>
 
 ---
