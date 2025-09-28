@@ -31,7 +31,7 @@
 
 ## 📸 Screenshots
 
-> Replace these placeholders with real screenshots from your device (put images in `docs/`).
+
 
 ![Home](docs/ui-home.png)
 ![Art-Net](docs/ui-artnet.png)
