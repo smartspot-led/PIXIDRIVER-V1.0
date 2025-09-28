@@ -120,7 +120,8 @@ pio run -t upload
 - Color order: GRB/RGB/…  
 - Bytes per pixel: RGB=3, RGBW=4  
 - Pixels per DMX universe: RGB ≈ 170, RGBW = 128
-
+- 4 outputs per instance
+- up to 300 led/s per output
 ---
 
 ## 🧪 Effects & Scenes
@@ -201,8 +202,8 @@ MIT — see [LICENSE](LICENSE).
 ## 🙌 Credits
 
 - WS2812FX — effects engine  
-- Adafruit NeoPixel — LED driver  
-- WLED — inspiration for UX & community spirit  
+- Adafruit NeoPixel — LED driver    
+- Alen Đirlić - design , idea & project creator
 - SMART SPOT — design & project lead
 
 <p align="center">
