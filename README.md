@@ -1,4 +1,4 @@
-# PIXIDRIVE — Art‑Net/sACN LED Pixel Controller Beta
+# PIXIDRIVE — Art‑Net/sACN LED Pixel Controller
 
 > High‑performance multi‑port pixel controller with a fast Web UI, frame‑sync anti‑flicker, and one‑click Scenes. Built for shows. ⚡️
 
